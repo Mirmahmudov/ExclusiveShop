@@ -1,0 +1,149 @@
+.about {
+  margin-top: 100px;
+}
+.link {
+  display: flex;
+  gap: 5px;
+}
+.link a {
+  color: black;
+  text-decoration: none;
+}
+.link .home {
+  color: #777676;
+}
+.about .story {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.story {
+  position: relative;
+  height: 100vh;
+}
+.sort-text {
+  width: 457px;
+
+  h1 {
+    font-size: 50px;
+  }
+  p {
+    font-size: 14px;
+  }
+}
+
+.story-img {
+  position: absolute;
+  right: -160px;
+}
+
+.reyting-section {
+  margin-top: 50px;
+}
+.reyting {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+.reyting .boxs {
+  width: 230px;
+  height: 230px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 5px;
+  border: 1px solid #00000070;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.boxs:hover {
+  box-shadow: 0px 2px 10px 2px #00000033;
+  border: none;
+}
+.boxs h1 {
+  font-size: 30px;
+  margin-top: 8px;
+}
+.boxs p {
+  font-size: 14px;
+}
+.boxs-img {
+  background-color: #777676;
+  width: 75px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  position: relative;
+}
+.boxs-img .imgs {
+  background-color: black;
+  padding: 10px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.boxs-img span {
+  background-color: black;
+  padding: 10px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  position: absolute;
+}
+.money {
+  filter: invert(1);
+}
+
+.boxs:hover .money {
+  filter: invert(0);
+}
+.boxs:hover .boxs-img span {
+  background-color: white;
+}
+
+.boxs:hover .imgs {
+  filter: invert(1);
+}
+.boxs:hover .boxs-img {
+  background-color: #bcbbbb;
+}
+
+.reyting .boxs:hover {
+  background-color: #db4444;
+  color: white;
+}
+.reyting .box-img {
+  width: 80px;
+  height: 80px;
+}
+
+/* about-section */
+
+.about-section {
+  margin-top: 100px;
+}
+.abouts {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.about-info h3 {
+  font-size: 30px;
+  font-weight: 400;
+}
+.about-info p {
+  font-size: 14px;
+  color: #777676;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+
+.social-about {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}

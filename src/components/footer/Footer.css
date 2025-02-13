@@ -1,0 +1,165 @@
+.footer {
+  background-color: #000000;
+  min-height: 500px;
+  margin-top: 100px;
+}
+
+.footer .container {
+  color: white;
+}
+.footer-info {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-top: 70px;
+}
+
+.exclusive p {
+  padding: 15px 0px 10px 0px !important;
+  font-weight: 300;
+}
+
+.footer-info h3 {
+  padding-bottom: 20px;
+  font-weight: 400;
+}
+.footer-info p {
+  font-size: 12px;
+  padding-bottom: 15px;
+}
+.footer-info p:hover {
+  cursor: pointer;
+  color: rgb(147, 147, 147);
+}
+.footer-email {
+  display: flex;
+  align-items: center;
+  padding: 8px 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: transparent;
+}
+.footer-email img {
+  cursor: pointer;
+}
+.footer-email img:active {
+  transform: scale(0.9);
+}
+
+.footer-email input {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: white;
+}
+.pay {
+  display: flex;
+  gap: 10px;
+}
+.pay img {
+  cursor: pointer;
+}
+.apps {
+  display: flex;
+  gap: 13px;
+  flex-direction: column;
+}
+
+.socials {
+  display: flex;
+  align-items: center;
+  padding-top: 70px;
+}
+
+.socials .icon {
+  margin: 0 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  cursor: pointer;
+  position: relative;
+  z-index: 2;
+}
+
+.socials .icon span {
+  position: relative;
+  height: 40px;
+  width: 40px;
+  display: block;
+  text-align: center;
+  border-radius: 50%;
+  z-index: 2;
+  background-color: #fff;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+.socials .icon span a {
+  line-height: 45px;
+  color: #000;
+}
+.socials .icon .tooltip {
+  position: absolute;
+  top: 0px;
+  background: #fff;
+  font-size: 10px;
+  color: black;
+  padding: 7px 13px;
+  border-radius: 25px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+.socials .icon:hover .tooltip {
+  top: -40px;
+  opacity: 1;
+  pointer-events: auto;
+}
+.socials .icon .tooltip::before {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: #fff;
+  left: 50%;
+  bottom: -4px;
+  transform: translateX(-50%) rotate(45deg);
+}
+.socials .icon:hover span,
+.socials .icon:hover .tooltip {
+  text-shadow: 0px -1px 0px rgba(102, 35, 35, 0.548);
+}
+.socials .facebook:hover span,
+.socials .facebook:hover .tooltip,
+.socials .facebook:hover .tooltip::before {
+  background: #0866ff;
+}
+
+.socials .twitter:hover span,
+.socials .twitter:hover .tooltip,
+.socials .twitter:hover .tooltip::before {
+  background: rgb(4, 74, 123);
+}
+
+.socials .instagram:hover span,
+.socials .instagram:hover .tooltip,
+.socials .instagram:hover .tooltip::before {
+  background: red;
+}
+
+.socials .linkedin:hover span,
+.socials .linkedin:hover .tooltip,
+.socials .linkedin:hover .tooltip::before {
+  background: #0866ff;
+}
+
+.copyright {
+  text-align: center;
+  padding-top: 110px;
+  font-size: 14px;
+  color: #3d3d3d;
+  user-select: none;
+}
+.copyright span {
+  color: tomato;
+}

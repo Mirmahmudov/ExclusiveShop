@@ -1,0 +1,29 @@
+.error-link {
+  margin-top: 50px;
+}
+.error-link a {
+  color: #00000098;
+}
+
+.error-block {
+  text-align: center;
+  margin-top: 40px;
+}
+.error-block h1 {
+  font-size: 90px;
+  font-weight: 500;
+}
+.error-block h5 {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.error-btn {
+  padding: 12px 30px;
+  border: none;
+  background-color: #db4444;
+  color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  cursor: pointer;
+}

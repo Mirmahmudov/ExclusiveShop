@@ -1,0 +1,172 @@
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.details form {
+  margin-top: 20px;
+}
+.details form input {
+  width: 350px;
+  padding: 10px 10px 10px 10px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+}
+.details form label {
+  font-weight: 400;
+  color: #7d7c7c;
+  font-size: 14px;
+}
+.details form .checkBox input {
+  width: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.details form .checkBox {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.checkBox input {
+  width: 15px;
+  height: 15px;
+}
+.checkBox label {
+  font-weight: 400;
+  color: black !important;
+  font-size: 14px;
+}
+#checkbox {
+  background-color: #db4444 !important;
+  color: #db4444;
+}
+.img-price {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #7d7c7c11;
+  border-radius: 3px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+.img-price div {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  color: #7d7c7c;
+  font-size: 14px;
+}
+.img-price img {
+  width: 30px;
+  height: 30px;
+}
+.checkout-buy {
+  width: 400px;
+}
+::-webkit-scrollbar {
+  width: 5px;
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #000000;
+}
+.checkout-card {
+  max-height: 170px;
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+  margin-bottom: 30px;
+}
+
+.checkout-subtotal {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 7px;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #9e9d9d;
+  color: #4d4c4c;
+}
+.checkout-total {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 7px;
+  color: #4d4c4c;
+  margin-bottom: 15px;
+}
+.bank {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.radio-bank {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.radio-bank div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  input {
+    width: 17px;
+    height: 17px;
+  }
+}
+
+.bank-card {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+
+  img {
+    cursor: pointer;
+  }
+}
+
+.delevery-radio {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+
+  input {
+    width: 17px;
+    height: 17px;
+  }
+}
+
+.coupon-btns input {
+  border: none;
+  outline: none;
+  border: 2px solid rgba(0, 0, 0, 0.566);
+  border-radius: 4px;
+  padding: 12px 20px;
+  width: 220px;
+  margin-top: 20px;
+}
+.coupon-btns button {
+  border: none;
+  outline: none;
+  background-color: #db4444;
+  color: white;
+  border-radius: 4px;
+  padding: 14px 40px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.placeOrder {
+  padding: 14px 35px;
+  background-color: #db4444;
+  color: white;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  margin-top: 30px;
+  cursor: pointer;
+}

@@ -1,0 +1,41 @@
+
+
+body {
+  background: #eee;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 570px;
+  padding-top: 150px !important;
+}
+.fresh-time{
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  color: black;
+  font-size: 23px !important;
+  font-weight: 700;
+}
+.swiper-button-prev,
+.swiper-button-next {
+  background-color:white;
+  width: 43px !important;
+  height: 40px;
+  padding: 20px;
+  border-radius: 50%;
+  font-size: 20px;
+  position: absolute;
+  top: 50px !important;
+}
+.swiper-button-prev{
+  left: 1100px !important;
+}
