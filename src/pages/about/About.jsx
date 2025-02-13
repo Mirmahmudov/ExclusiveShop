@@ -32,7 +32,7 @@ function About() {
                 </p>
               </div>
               <div className="story-img">
-                <img src="/public/images/story Image.png" alt="" />
+                <img src="images/story Image.png" alt="" />
               </div>
             </div>
           </section>
@@ -44,7 +44,7 @@ function About() {
                   <div className="boxs-img">
                     <img
                       className="imgs"
-                      src="/public/images/icon_shop.svg"
+                      src="images/icon_shop.svg"
                       alt=""
                     />
                   </div>
@@ -57,7 +57,7 @@ function About() {
                     <span></span>
                     <img
                       className="money"
-                      src="/public/images/Icon-money.svg"
+                      src="images/Icon-money.svg"
                       alt=""
                     />
                   </div>
@@ -69,7 +69,7 @@ function About() {
                   <div className="boxs-img">
                     <img
                       className="imgs"
-                      src="/public/images/Icon-Shopping bag.svg"
+                      src="images/Icon-Shopping bag.svg"
                       alt=""
                     />
                   </div>
@@ -81,7 +81,7 @@ function About() {
                   <div className="boxs-img">
                     <img
                       className="imgs"
-                      src="/public/images/Icon-Moneybag (1).svg"
+                      src="images/Icon-Moneybag (1).svg"
                       alt=""
                     />
                   </div>
@@ -96,57 +96,57 @@ function About() {
             <div className="container">
               <div className="abouts">
                 <div className="about-them">
-                  <img src="/public/images/about-img1.png" alt="" />
+                  <img src="images/about-img1.png" alt="" />
                   <div className="about-info">
                     <h3>Tom Cruise</h3>
                     <p>Founder & Chairman</p>
                     <div className="social-about">
                       <a href="">
-                        <img src="/public/images/twiiter.svg" alt="" />
+                        <img src="images/twiiter.svg" alt="" />
                       </a>
                       <a href="">
-                        <img src="/public/images/instagram.svg" alt="" />
+                        <img src="images/instagram.svg" alt="" />
                       </a>
                       <a href="">
-                        <img src="/public/images/linkedin.svg" alt="" />
+                        <img src="images/linkedin.svg" alt="" />
                       </a>
                     </div>
                   </div>
                 </div>
 
                 <div className="about-them">
-                  <img src="/public/images/about-img2.png" alt="" />
+                  <img src="images/about-img2.png" alt="" />
                   <div className="about-info">
                     <h3>Tom Cruise</h3>
                     <p>Founder & Chairman</p>
                     <div className="social-about">
                       <a href="">
-                        <img src="/public/images/twiiter.svg" alt="" />
+                        <img src="images/twiiter.svg" alt="" />
                       </a>
                       <a href="">
-                        <img src="/public/images/instagram.svg" alt="" />
+                        <img src="images/instagram.svg" alt="" />
                       </a>
                       <a href="">
-                        <img src="/public/images/linkedin.svg" alt="" />
+                        <img src="images/linkedin.svg" alt="" />
                       </a>
                     </div>
                   </div>
                 </div>
 
                 <div className="about-them">
-                  <img src="/public/images/about-img.png" alt="" />
+                  <img src="images/about-img.png" alt="" />
                   <div className="about-info">
                     <h3>Tom Cruise</h3>
                     <p>Founder & Chairman</p>
                     <div className="social-about">
                       <a href="">
-                        <img src="/public/images/twiiter.svg" alt="" />
+                        <img src="images/twiiter.svg" alt="" />
                       </a>
                       <a href="">
-                        <img src="/public/images/instagram.svg" alt="" />
+                        <img src="images/instagram.svg" alt="" />
                       </a>
                       <a href="">
-                        <img src="/public/images/linkedin.svg" alt="" />
+                        <img src="images/linkedin.svg" alt="" />
                       </a>
                     </div>
                   </div>

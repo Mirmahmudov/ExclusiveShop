@@ -76,7 +76,7 @@ function Login({ setToken}) {
       }
         <div className="container">
           <div className="login-img">
-            <img src="/public/images/Sign Image.png" alt="" />
+            <img src="images/Sign Image.png" alt="" />
           </div>
           <div className="login">
             <h1>Log in to Exclusive</h1>

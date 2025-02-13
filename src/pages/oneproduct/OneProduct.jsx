@@ -72,7 +72,7 @@ const OneProduct = ({ products, related }) => {
             <div className="oneProduct-info">
               <h2>{product?.title}</h2>
               <div className="stars">
-                <img src="/public/images/Five star.svg" alt="" />
+                <img src="images/Five star.svg" alt="" />
                 <span>(150 Reviews)</span> |{" "}
                 <span className="stock">In Stock</span>
               </div>
@@ -128,7 +128,7 @@ const OneProduct = ({ products, related }) => {
 
               <div className="delivery">
                 <div className="delivery-img">
-                  <img src="/public/images/icon-delivery (1).svg" alt="" />
+                  <img src="images/icon-delivery (1).svg" alt="" />
                   <div>
                     <h5>Free Delivery</h5>
                     <Link>
@@ -137,7 +137,7 @@ const OneProduct = ({ products, related }) => {
                   </div>
                 </div>
                 <div className="return-img">
-                  <img src="/public/images/Icon-return.svg" alt="" />
+                  <img src="images/Icon-return.svg" alt="" />
                   <div>
                     <h5>Return Delivery</h5>
                     <p>

@@ -18,7 +18,7 @@ function App() {
   const [products, setproducts] = useState([
     {
       id: 0,
-      image: "/public/images/card1.png",
+      image: "images/card1.png",
       imgs: [
         "https://doubledeellc.com/wp-content/uploads/2023/10/1-1.jpg",
         "https://img.fruugo.com/product/8/20/193587208_0340_0340.jpg",
@@ -35,7 +35,7 @@ function App() {
     },
     {
       id: 1,
-      image: "/public/images/card2.png",
+      image: "images/card2.png",
       imgs: [
         "https://s.alicdn.com/@sc04/kf/H54cfce54d422487cb9179ac7ed2a525eD.jpg_720x720q50.jpg",
         "https://www.startech.com.bd/image/cache/catalog/keyboard/imice/km-900/km-900-01-500x500.jpg",
@@ -52,7 +52,7 @@ function App() {
     },
     {
       id: 2,
-      image: "/public/images/card3.png",
+      image: "images/card3.png",
       imgs: [
         "https://i5.walmartimages.com/asr/c95fa77e-cc9e-476b-b5a1-a35925fa1d6d.b93f674445c6d416e45ee5b2aef0ffa1.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
         "https://i0.wp.com/shop.clarioncomputers.in/wp-content/uploads/2024/07/optix-g273qf-image-01-600x600-1.webp?fit=600%2C600&ssl=1",
@@ -69,7 +69,7 @@ function App() {
     },
     {
       id: 3,
-      image: "/public/images/card4.png",
+      image: "images/card4.png",
       imgs: [
         "https://wc.theemwiz.in/wp-content/uploads/2022/11/Product-32.jpg",
         "https://doddsandshute.com/shop/pub/media/catalog/product/cache/7c0686f28ae54f0e875024628bf6717f/f/r/frida_lounge.jpg",
@@ -86,7 +86,7 @@ function App() {
     },
     {
       id: 4,
-      image: "/public/images/card4.png",
+      image: "images/card4.png",
       imgs: [
         "https://wc.theemwiz.in/wp-content/uploads/2022/11/Product-32.jpg",
         "https://doddsandshute.com/shop/pub/media/catalog/product/cache/7c0686f28ae54f0e875024628bf6717f/f/r/frida_lounge.jpg",
@@ -104,7 +104,7 @@ function App() {
 
     {
       id: 5,
-      image: "/public/images/card5.png",
+      image: "images/card5.png",
       imgs: [
         "https://editorialist.com/webcompressed/2024/2/029/094/599/29094599~dark%20pink_0.jpg",
         "https://images.vestiairecollective.com/images/resized/w=1246,q=75,f=auto,/produit/multicolour-polyamide-the-north-face-x-gucci-trench-coat-44028260-2_3.jpg",
@@ -120,7 +120,7 @@ function App() {
     },
     {
       id: 6,
-      image: "/public/images/card6.png",
+      image: "images/card6.png",
       imgs: [
         "https://img.mytheresa.com/356/402/30/jpeg/catalog/product/1d/P00368627.jpg",
         "https://www.tizianafausti.com/media/catalog/product/cache/9fdd47f660230e6c661f6112097a21ff/i/4/i45-gucci-gucci-borseamano-tizianafausti-724642fadhs9756.jpg",
@@ -136,7 +136,7 @@ function App() {
     },
     {
       id: 7,
-      image: "/public/images/card7.png",
+      image: "images/card7.png",
       imgs: [
         "https://www.bigw.com.au/medias/sys_master/images/images/h70/h30/51224273190942.jpg",
         "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/castle-240rgb-v2/castle-240rgb-v2-01-500x500.jpg",
@@ -152,10 +152,10 @@ function App() {
     },
     {
       id: 8,
-      image: "/public/images/card8.png",
+      image: "images/card8.png",
       imgs: [
         "https://doubledeellc.com/wp-content/uploads/2023/10/4.jpg",
-        "https://commerce.demo.centarro.io/sites/default/files/styles/cklb_medium_max_1144px/public/2021-09/side-table_0_21_0_2.jpg?itok=jjJv9vzC",
+        "https://commerce.demo.centarro.io/sites/default/files/styles/cklb_medium_max_1144px2021-09/side-table_0_21_0_2.jpg?itok=jjJv9vzC",
         "https://www.monarchfurnishings.com/wp-content/uploads/2024/06/pixelcut_8-2-scaled.jpg",
         "https://www.monarchfurnishings.com/wp-content/uploads/2024/06/pixelcut_10-2-scaled.jpg",
       ],
@@ -168,7 +168,7 @@ function App() {
 
     {
       id: 9,
-      image: "/public/images/card9.png",
+      image: "images/card9.png",
       imgs: [
         "https://target.scene7.com/is/image/Target/GUEST_d96ae8a3-6a58-4c87-bb59-c541cb3c119f?wid=488&hei=488&fmt=pjpeg",
         "https://images.heb.com/is/image/HEBGrocery/prd-medium/002083055.jpg",
@@ -184,7 +184,7 @@ function App() {
     },
     {
       id: 10,
-      image: "/public/images/card10.png",
+      image: "images/card10.png",
       imgs: [
         "https://m.media-amazon.com/images/I/810zgNhYR+L._AC_UF350,350_QL80_.jpg",
         "https://5.imimg.com/data5/FE/BP/GLADMIN-18342908/canon-eos-700d-kit-500x500.png",
@@ -200,7 +200,7 @@ function App() {
     },
     {
       id: 11,
-      image: "/public/images/card11.png",
+      image: "images/card11.png",
       imgs: [
         "https://e2simages.excess2sell.com/images/products/lenovcolaam1624092836638_1624092837_lg.jpg",
         "https://compuscience.com.eg/13623-pdt_771/best-laptop-lenovo-ideapad-gaming-3-i5-11320h-8gb-ssd-512gb-rtx3050-4g-156-fhd-dos-shadow-black.jpg",
@@ -216,7 +216,7 @@ function App() {
     },
     {
       id: 12,
-      image: "/public/images/card12.png",
+      image: "images/card12.png",
       imgs: [
         "https://sandbox.elemisthemes.com/assets/img/photos/shs2@2x.jpg",
         "https://sandbox.elemisthemes.com/assets/img/photos/shs4.jpg",
@@ -233,7 +233,7 @@ function App() {
 
     {
       id: 13,
-      image: "/public/images/card13.png",
+      image: "images/card13.png",
       imgs: [
         "https://s.alicdn.com/@sc04/kf/Hda0d4d9d43ac4c1093b1d12f9cae5e6d4.jpg_300x300.jpg",
         "https://m.media-amazon.com/images/I/61MujhYVR5L.jpg",
@@ -247,13 +247,13 @@ function App() {
       new: true,
       type: "explore",
       colors: {
-        color: "/public/images/card-color.svg",
-        color2: "/public/images/card-color-red.png",
+        color: "images/card-color.svg",
+        color2: "images/card-color-red.png",
       },
     },
     {
       id: 14,
-      image: "/public/images/card14.png",
+      image: "images/card14.png",
       imgs: [
         "https://i.ebayimg.com/images/g/pzgAAOSwYkRjvxvh/s-l400.jpg",
         "https://adrenalinsports.ie/cdn/shop/products/db7c03ff5d734a51afb6aed2002b612b_9366_800x.webp?v=1672412976",
@@ -267,13 +267,13 @@ function App() {
       new: false,
       type: "explore",
       colors: {
-        color: "/public/images/card-color2.png",
-        color2: "/public/images/card-color-red.png",
+        color: "images/card-color2.png",
+        color2: "images/card-color-red.png",
       },
     },
     {
       id: 15,
-      image: "/public/images/card15.png",
+      image: "images/card15.png",
       imgs: [
         "https://www.pngall.com/wp-content/uploads/15/PS5-Controller-PNG-Clipart.png",
         "https://www.pngall.com/wp-content/uploads/15/PS5-Controller-PNG-Image-File.png",
@@ -287,13 +287,13 @@ function App() {
       new: true,
       type: "explore",
       colors: {
-        color: "/public/images/card-color3.png",
-        color2: "/public/images/card-color-red.png",
+        color: "images/card-color3.png",
+        color2: "images/card-color-red.png",
       },
     },
     {
       id: 16,
-      image: "/public/images/card16.png",
+      image: "images/card16.png",
       imgs: [
         "https://static.reserved.com/media/catalog/product/cache/1200/a4e40ebdc3e371adff845072e1c73f37/7/7/7769L-67X-010-1-408169_1.jpg",
         "https://img.shopstyle-cdn.com/sim/e6/68/e66814915edd8101a26a68060056b727_best/logo-appliqued-padded-satin-bomber-jacket.jpg",
@@ -307,14 +307,14 @@ function App() {
       new: false,
       type: "explore",
       colors: {
-        color: "/public/images/card-color4.png",
-        color2: "/public/images/card-color-red.png",
+        color: "images/card-color4.png",
+        color2: "images/card-color-red.png",
       },
     },
 
     {
       id: 17,
-      image: "/public/images/card1.png",
+      image: "images/card1.png",
       imgs: [
         "https://doubledeellc.com/wp-content/uploads/2023/10/1-1.jpg",
         "https://img.fruugo.com/product/8/20/193587208_0340_0340.jpg",
@@ -331,7 +331,7 @@ function App() {
     },
     {
       id: 18,
-      image: "/public/images/card2.png",
+      image: "images/card2.png",
       imgs: [
         "https://s.alicdn.com/@sc04/kf/H54cfce54d422487cb9179ac7ed2a525eD.jpg_720x720q50.jpg",
         "https://www.startech.com.bd/image/cache/catalog/keyboard/imice/km-900/km-900-01-500x500.jpg",
@@ -348,7 +348,7 @@ function App() {
     },
     {
       id: 19,
-      image: "/public/images/card3.png",
+      image: "images/card3.png",
       imgs: [
         "https://i5.walmartimages.com/asr/c95fa77e-cc9e-476b-b5a1-a35925fa1d6d.b93f674445c6d416e45ee5b2aef0ffa1.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
         "https://i0.wp.com/shop.clarioncomputers.in/wp-content/uploads/2024/07/optix-g273qf-image-01-600x600-1.webp?fit=600%2C600&ssl=1",
@@ -365,7 +365,7 @@ function App() {
     },
     {
       id: 20,
-      image: "/public/images/card7.png",
+      image: "images/card7.png",
       imgs: [
         "https://www.bigw.com.au/medias/sys_master/images/images/h70/h30/51224273190942.jpg",
         "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/castle-240rgb-v2/castle-240rgb-v2-01-500x500.jpg",

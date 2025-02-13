@@ -44,7 +44,7 @@ const SwipperHome = () => {
                 Up to 10% <br /> off Voucher
               </h1>
               <button>
-                Shop  <img src="/images/showNow-arrow.svg" alt="" />{" "}
+                Shop Now <img src="images/showNow-arrow.svg" alt="" />{" "}
               </button>
             </div>
 

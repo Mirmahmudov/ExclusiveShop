@@ -33,7 +33,7 @@ function Related({ product, setBigImg }) {
               {oldPrice && <p className="old">${oldPrice}</p>}
             </div>
             <div className="star">
-              <img src="/public/images/Five star.svg" alt="" />
+              <img src="images/Five star.svg" alt="" />
               (88)
             </div>
           </div>

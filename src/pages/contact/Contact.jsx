@@ -17,14 +17,14 @@ function Contact() {
           <div className="contacts">
             <div className="contact-left">
               <div className="call-info">
-                <img src="/public/images/call.svg" alt="" />
+                <img src="images/call.svg" alt="" />
                 <h5>Call To Us</h5>
               </div>
               <p className="manzil">We are available 24/7, 7 days a week.</p>
               <p className="call-numer">Phone: +998934434742</p>
               <hr />
               <div className="email-info">
-                <img src="/public/images/mail.svg" alt="" />
+                <img src="images/mail.svg" alt="" />
                 <h5>Write To US</h5>
               </div>
               <p className="email-p">

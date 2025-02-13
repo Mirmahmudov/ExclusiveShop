@@ -80,7 +80,7 @@ function SignUp() {
       }
         <div className="container">
           <div className="sign-img">
-            <img src="/public/images/Sign Image.png" alt="" />
+            <img src="images/Sign Image.png" alt="" />
           </div>
           <div className="sign">
             <h1>Create an account</h1>

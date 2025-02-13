@@ -20,7 +20,7 @@ function Footer() {
                   id="email"
                   placeholder="Enter your email"
                 />
-                <img src="./public/images/footer-email-icon.svg" alt="" />
+                <img src="images/footer-email-icon.svg" alt="" />
               </div>
             </div>
 
@@ -54,10 +54,10 @@ function Footer() {
               <h3>Download App</h3>
               <p>Save $3 with App New User Only</p>
               <div className="pay">
-                <img src="./public/images/Qr Code.png" alt="" />
+                <img src="images/Qr Code.png" alt="" />
                 <div className="apps">
-                  <img src="./public/images/google-play.png" alt="" />
-                  <img src="./public/images/download-appstore.png" alt="" />
+                  <img src="images/google-play.png" alt="" />
+                  <img src="images/download-appstore.png" alt="" />
                 </div>
               </div>
               <div className="socials">

@@ -49,19 +49,19 @@ function Home({ products, salling, explore, addCart, addHeart }) {
           {/* <div className="hero">
             <div className="hero-info">
               <div className="apple-logo">
-                <img src="./public/images/Apple.svg" alt="" />
+                <img src="images/Apple.svg" alt="" />
                 <h3>iPhone 14 Series</h3>
               </div>
               <h1>
                 Up to 10% <br /> off Voucher
               </h1>
               <button>
-                Shop Now <img src="./public/images/showNow-arrow.svg" alt="" />{" "}
+                Shop Now <img src="images/showNow-arrow.svg" alt="" />{" "}
               </button>
             </div>
 
             <div className="hero-img">
-              <img src="./public/images/hero_endframe.png" alt="" />
+              <img src="images/hero_endframe.png" alt="" />
             </div>
           </div> */}
         </div>
@@ -87,8 +87,8 @@ function Home({ products, salling, explore, addCart, addHeart }) {
           <div className="caragory-title">
             <h1 data-aos="fade-right">Browse By Category</h1>
             {/* <div className="arrows">
-              <img src="./public/images/left-arrow.svg" alt="" />
-              <img src="./public/images/right-arrow.svg" alt="" />
+              <img src="images/left-arrow.svg" alt="" />
+              <img src="images/right-arrow.svg" alt="" />
             </div> */}
           </div>
           <div className="block">
@@ -202,7 +202,7 @@ function Home({ products, salling, explore, addCart, addHeart }) {
             data-aos-duration="2000"
             className="music-img"
           >
-            <img src="/public/images/music-img.png" alt="" />
+            <img src="images/music-img.png" alt="" />
           </div>
         </div>
       </section>
@@ -216,8 +216,8 @@ function Home({ products, salling, explore, addCart, addHeart }) {
           <div className="caragory-title">
             <h1 data-aos="fade-right">Explore Our Products</h1>
             {/* <div className="arrows">
-              <img src="./public/images/left-arrow.svg" alt="" />
-              <img src="./public/images/right-arrow.svg" alt="" />
+              <img src="images/left-arrow.svg" alt="" />
+              <img src="images/right-arrow.svg" alt="" />
             </div> */}
           </div>
 
@@ -253,7 +253,7 @@ function Home({ products, salling, explore, addCart, addHeart }) {
             <div data-aos="fade-right"
             data-aos-duration="2000"
              className="playsation">
-              <img src="./public/images/playsation.png" alt="" />
+              <img src="images/playsation.png" alt="" />
               <div className="playation-info">
                 <h3>Playstation 5</h3>
                 <p>Black and White version of the PS5 coming out on sale.</p>
@@ -266,7 +266,7 @@ function Home({ products, salling, explore, addCart, addHeart }) {
               <div data-aos="fade-left"
               data-aos-duration="2000"
                className="women">
-                <img src="/public/images/woman's.png" alt="" />
+                <img src="images/woman's.png" alt="" />
                 <div className="women-info">
                   <h3>Women’s Collections</h3>
                   <p>Featured woman collections that give you another vibe.</p>
@@ -280,7 +280,7 @@ function Home({ products, salling, explore, addCart, addHeart }) {
                   data-aos-duration="2000"
                   className="speaker"
                 >
-                  <img src="/public/images/speakers.png" alt="" />
+                  <img src="images/speakers.png" alt="" />
                   <div className="speaker-info">
                     <h3>Speakers</h3>
                     <p>Amazon wireless speakers</p>
@@ -293,7 +293,7 @@ function Home({ products, salling, explore, addCart, addHeart }) {
                   data-aos-duration="2000"
                   className="parfume"
                 >
-                  <img src="/public/images/parfume.png" alt="" />
+                  <img src="images/parfume.png" alt="" />
                   <div className="parfume-info">
                     <h3>Perfume</h3>
                     <p>GUCCI INTENSE OUD EDP</p>
@@ -308,7 +308,7 @@ function Home({ products, salling, explore, addCart, addHeart }) {
       <Delivery />
       <section className="section-top">
         <div className="top-btn" onClick={scrollToTop}>
-          <img src="/public/images/Animation - top.gif" alt="Scroll to top" />
+          <img src="images/Animation - top.gif" alt="Scroll to top" />
         </div>
       </section>
     </>

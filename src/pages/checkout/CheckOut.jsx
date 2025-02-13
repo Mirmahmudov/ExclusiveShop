@@ -123,10 +123,10 @@ const CheckOut = ({ cartMenu }) => {
                   </div>
                 </div>
                 <div className="bank-card">
-                  <img src="/public/images/Bkash-card.svg" alt="Bkash" />
-                  <img src="/public/images/Visa.svg" alt="Visa" />
-                  <img src="/public/images/Mastercard.svg" alt="Mastercard" />
-                  <img src="/public/images/Nagad-card.svg" alt="Nagad" />
+                  <img src="images/Bkash-card.svg" alt="Bkash" />
+                  <img src="images/Visa.svg" alt="Visa" />
+                  <img src="images/Mastercard.svg" alt="Mastercard" />
+                  <img src="images/Nagad-card.svg" alt="Nagad" />
                 </div>
               </div>
 
