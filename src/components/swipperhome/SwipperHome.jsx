@@ -37,19 +37,19 @@ const SwipperHome = () => {
           <div className="hero">
             <div className="hero-info">
               <div className="apple-logo">
-                <img src="public/images/Apple.svg" alt="" />
+                <img src="images/Apple.svg" alt="" />
                 <h3>iPhone 14 Series</h3>
               </div>
               <h1>
                 Up to 10% <br /> off Voucher
               </h1>
               <button>
-                Shop Now <img src="public/images/showNow-arrow.svg" alt="" />{" "}
+                Shop Now <img src="images/showNow-arrow.svg" alt="" />{" "}
               </button>
             </div>
 
             <div className="hero-img">
-              <img src="public/images/hero_endframe.png" alt="" />
+              <img src="images/hero_endframe.png" alt="" />
             </div>
           </div>
         </SwiperSlide>
@@ -57,19 +57,19 @@ const SwipperHome = () => {
           <div className="hero">
             <div className="hero-info">
               <div className="apple-logo">
-                <img src="public/images/Apple.svg" alt="" />
+                <img src="images/Apple.svg" alt="" />
                 <h3>iPhone 14 Series</h3>
               </div>
               <h1>
                 Up to 10% <br /> off Voucher
               </h1>
               <button>
-                Shop Now <img src="public/images/showNow-arrow.svg" alt="" />{" "}
+                Shop Now <img src="images/showNow-arrow.svg" alt="" />{" "}
               </button>
             </div>
 
             <div className="hero-img">
-              <img src="public/images/hero_endframe.png" alt="" />
+              <img src="images/hero_endframe.png" alt="" />
             </div>
           </div>
         </SwiperSlide>
@@ -77,19 +77,19 @@ const SwipperHome = () => {
           <div className="hero">
             <div className="hero-info">
               <div className="apple-logo">
-                <img src="public/images/Apple.svg" alt="" />
+                <img src="images/Apple.svg" alt="" />
                 <h3>iPhone 14 Series</h3>
               </div>
               <h1>
                 Up to 10% <br /> off Voucher
               </h1>
               <button>
-                Shop Now <img src="public/images/showNow-arrow.svg" alt="" />{" "}
+                Shop Now <img src="images/showNow-arrow.svg" alt="" />{" "}
               </button>
             </div>
 
             <div className="hero-img">
-              <img src="public/images/hero_endframe.png" alt="" />
+              <img src="images/hero_endframe.png" alt="" />
             </div>
           </div>
         </SwiperSlide>
@@ -97,19 +97,19 @@ const SwipperHome = () => {
           <div className="hero">
             <div className="hero-info">
               <div className="apple-logo">
-                <img src="public/images/Apple.svg" alt="" />
+                <img src="images/Apple.svg" alt="" />
                 <h3>iPhone 14 Series</h3>
               </div>
               <h1>
                 Up to 10% <br /> off Voucher
               </h1>
               <button>
-                Shop Now <img src="public/images/showNow-arrow.svg" alt="" />{" "}
+                Shop Now <img src="images/showNow-arrow.svg" alt="" />{" "}
               </button>
             </div>
 
             <div className="hero-img">
-              <img src="public/images/hero_endframe.png" alt="" />
+              <img src="images/hero_endframe.png" alt="" />
             </div>
           </div>
         </SwiperSlide>
@@ -117,19 +117,19 @@ const SwipperHome = () => {
           <div className="hero">
             <div className="hero-info">
               <div className="apple-logo">
-                <img src="public/images/Apple.svg" alt="" />
+                <img src="images/Apple.svg" alt="" />
                 <h3>iPhone 14 Series</h3>
               </div>
               <h1>
                 Up to 10% <br /> off Voucher
               </h1>
               <button>
-                Shop Now <img src="public/images/showNow-arrow.svg" alt="" />{" "}
+                Shop Now <img src="images/showNow-arrow.svg" alt="" />{" "}
               </button>
             </div>
 
             <div className="hero-img">
-              <img src="public/images/hero_endframe.png" alt="" />
+              <img src="images/hero_endframe.png" alt="" />
             </div>
           </div>
         </SwiperSlide>
