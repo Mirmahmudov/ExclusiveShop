@@ -66,7 +66,7 @@ function Footer() {
                   <span>
                     <a
                       target="_blank"
-                      href="https://www.facebook.com/profile.php?id=100095231617106"
+                      href="#"
                     >
                       <FaFacebookF />
                     </a>
