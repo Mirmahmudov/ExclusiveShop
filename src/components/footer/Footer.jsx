@@ -29,8 +29,8 @@ function Footer() {
               <p>
                 111 Bijoy sarani, Dhaka, <br /> DH 1515, Bangladesh.
               </p>
-              <p>xusanboyev03@inbox.ru</p>
-              <p>+998(93)443_47_42</p>
+              <p>asadbekmirmahmudov3@gmail.com</p>
+              <p>+998(91)344-44-68</p>
             </div>
 
             <div className="account">
