@@ -21,7 +21,7 @@ function Contact() {
                 <h5>Call To Us</h5>
               </div>
               <p className="manzil">We are available 24/7, 7 days a week.</p>
-              <p className="call-numer">Phone: +998934434742</p>
+              <p className="call-numer">Phone: +998913444468</p>
               <hr />
               <div className="email-info">
                 <img src="images/mail.svg" alt="" />
@@ -30,8 +30,8 @@ function Contact() {
               <p className="email-p">
                 Fill out our form and we will contact you within 24 hours.
               </p>
-              <p className="email-p">Emails: xusanboyev03@inbox.ru</p>
-              <p className="email-p">Emails: xusanboyevomadbek04@gmail.com</p>
+              <p className="email-p">Emails: asadbekmirmahmudov3@gmail.com</p>
+              <p className="email-p">Emails: asadbekmirmahmudov3@gmail.com</p>
             </div>
             <div className="contact-right">
               <form>
