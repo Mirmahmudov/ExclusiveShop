@@ -76,7 +76,7 @@ function Footer() {
                 <div className="icon twitter">
                   <div className="tooltip">Twitter</div>
                   <span>
-                    <a target="_blank" href="https://x.com/CoderOmad">
+                    <a target="_blank" href="#">
                       <FaXTwitter />
                     </a>
                   </span>
@@ -87,7 +87,7 @@ function Footer() {
                   <span>
                     <a
                       target="_blank"
-                      href="https://www.instagram.com/omad_coder_07?igsh=MXAxM2R6Y2hpNG54YQ=="
+                      href="#"
                     >
                       <FaInstagram />
                     </a>
@@ -99,7 +99,7 @@ function Footer() {
                   <span>
                     <a
                       target="_blank"
-                      href="https://www.linkedin.com/in/xusanboyev-omadbek"
+                      href="#"
                     >
                       <FaLinkedinIn />
                     </a>
@@ -111,7 +111,7 @@ function Footer() {
 
           <div className="copyright">
             <h4>
-              © Copyright Omad<span>Coder</span> 2024. All right reserved
+              © Copyright Asadbek<span>Mirmahmudov</span> 2024. All right reserved
             </h4>
           </div>
         </div>
